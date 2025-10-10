@@ -42,13 +42,5 @@
 
 </div>
 
----
 
-### 🎨 **Design Vision**
-> **Gradient & Textured Badges · Rounded Shapes · Modern Stylish Look**  
-> Each badge has subtle shadows and gradients, reflecting the project’s theme. Professional & client-friendly.
 
----
-
-**Made with ❤️ by [Shubham](https://github.com/shubham-shipt)**  
-🌍 *Building Modern Web for Everyone*
